@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432547762753",
+    "firebase_url": "https://realtimenotesappdata-default-rtdb.firebaseio.com",
+    "project_id": "realtimenotesappdata",
+    "storage_bucket": "realtimenotesappdata.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432547762753:android:545c0bcd555f43b482acc0",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432547762753-0q6ll0kg482di2lscs0qbvnqe8165eh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notes",
+            "certificate_hash": "0de3158201abe7313fb01c0371a5e5b611855635"
+          }
+        },
+        {
+          "client_id": "432547762753-ro591vm1ed8na5i2l4425o40nrcqfha6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ZXrM9VwOaFy_1w_mWZK5GNyXv019PGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432547762753-ro591vm1ed8na5i2l4425o40nrcqfha6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "432547762753-kb905sf242imu56kvje4iib2d2ouh261.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

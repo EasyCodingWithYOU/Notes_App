@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>432547762753-kb905sf242imu56kvje4iib2d2ouh261.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.432547762753-kb905sf242imu56kvje4iib2d2ouh261</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>432547762753-0q6ll0kg482di2lscs0qbvnqe8165eh2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5m0Uje8ACIVSisKMgKLacvxZbfu4OO8A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>432547762753</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.notes</string>
+	<key>PROJECT_ID</key>
+	<string>realtimenotesappdata</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realtimenotesappdata.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:432547762753:ios:5d3c41156e8fa82f82acc0</string>
+	<key>DATABASE_URL</key>
+	<string>https://realtimenotesappdata-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
